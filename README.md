@@ -115,13 +115,13 @@ This project uses [Tauri](https://tauri.app/) to build cross-platform desktop ap
 
 ```bash
 # Install dependencies
-npm install
+pnpm install
 
 # Start development environment
-npm run tauri dev
+pnpm run tauri dev
 
 # Build release version
-npm run tauri build
+pnpm run tauri build
 ```
 
 ## LICENSE

@@ -1,7 +1,7 @@
 ### Task 5.1: i18n 基礎架構
 
 1. **設定 Vue i18n 框架**:
-   - 安裝 Vue I18n: `npm install vue-i18n`
+   - 安裝 Vue I18n: `pnpm install vue-i18n`
    - 在 `src/main.js` 中設定:
      ```javascript
      import { createI18n } from 'vue-i18n';
