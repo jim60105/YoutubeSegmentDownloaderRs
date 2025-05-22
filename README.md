@@ -150,4 +150,4 @@ You should have received a copy of the GNU General Public License along with thi
 ---
 
 > [!NOTE]  
-> This project is fully developed using GitHub Copilot, with an attempt to maintain the maintainability of the software architecture. It is absolutely not a result of vibe coding. My goal is to practice controlling and planning professional software engineering work entirely through prompt engineering with AI.
+> This project is fully developed using GitHub Copilot and Codex CLI, with an attempt to maintain the maintainability of the software architecture. It is absolutely not a result of vibe coding. My goal is to practice controlling and planning professional software engineering work entirely through prompt engineering with AI.
